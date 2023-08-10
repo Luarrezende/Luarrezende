@@ -6,3 +6,7 @@
 [![Social](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Luarrezende)
 
 ![Luar GitHub stats](https://github-readme-stats.vercel.app/api?username=Luarrezende&show_icons=true&theme=dracula)
+
+### Tecnologias que eu uso no meu dia a dia
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
